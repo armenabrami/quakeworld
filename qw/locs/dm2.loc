@@ -1,139 +1,191 @@
-14080 -4360 1014 below quad
-14464 -4544 1472 quad
-14787 -4479 896 below quad
-14211 -3797 192 below quad
-12181 -4313 192 below quad
-13516 -2688 1472 quad tunnel
-15139 -3712 576 below quad
-16511 -2885 704 below quad
-15232 -1902 192 ng
-17024 -2400 192 ng
-17331 -1692 77 ng
-16684 -905 192 ng
-18214 -1281 192 ng
-18172 -882 -420 tele
-17752 -4 192 ng
-18235 -1665 77 ng
-17723 -3003 64 water
-17224 -1247 -552 tele
-18303 -1663 -384 tele
-19726 -1642 192 ng
-20607 -1484 256 ng
-17344 127 -607 tele
-19216 -427 -575 tele
-17958 -1640 -1087 tele
-14975 -3415 1472 quad tunnel
-13738 -5763 160 center
-13206 -6592 1472 center
-15558 -7296 2752 gl/mega
-13969 -7296 4032 gl/mega
-11826 -7296 4288 upper tele
-11520 -5759 4341 high rl
-12671 -5759 4351 high rl
-14464 -6015 4335 quad
-15039 -8205 4288 gl/mega
-16767 -7296 2752 gl/mega
-16767 -9087 2752 gl/mega
-12416 -6592 1472 center
-10115 -8256 2816 upper tele
-10112 -6982 2752 upper tele
-10112 -9087 2752 upper tele
-10112 -5755 2752 upper tele
-10112 -5375 1472 high rl
-11966 -5758 1472 high rl
-11150 -3886 1472 high rl
-11555 -2688 1472 quad tunnel
-10112 -6784 2024 center
-16000 -6784 2042 center
-15743 -6015 4327 quad
-15743 -6015 1472 quad
-15395 -5633 1472 quad
-11392 -6784 160 center
-10879 -7241 256 center
-11392 -10111 160 center
-13511 -12164 192 center
-15520 -13576 192 lava trap
-17720 -15005 192 low rl
-18190 -15228 192 low rl
-19497 -15227 192 low rl
-20863 -15231 192 low rl
-21376 -15231 960 low rl
-18816 -10368 192 low rl
-23168 -14496 64 low rl
-21376 -15744 960 ra/mega
-23069 -15231 960 low rl
-23096 -15744 960 ra/mega
-23415 -16511 64 ra/mega
-18240 -17280 704 ra/mega
-18240 -17665 704 ra/mega
-18240 -18033 704 ra/mega
-18240 -18559 704 ra/mega
-17855 -18559 704 low rl
-17855 -17301 704 low rl
-17855 -17923 704 low rl
-17371 -18454 672 low rl
-17855 -17281 704 low rl
-17791 -16709 704 low rl
-17855 -15763 960 low rl
-20021 -7510 256 low rl
-21119 -7039 960 path
-19520 -6622 960 path
-20608 -5396 960 path
-20484 -3831 960 path
-20568 -3519 960 path
-21119 -2148 960 path
-20449 -1460 960 path
-20892 -84 960 path
-15300 -3712 1152 below quad
-16130 -4108 832 below quad
-15533 -4479 1152 below quad
-15178 -4479 1024 below quad
-15127 -4574 1472 quad
-14701 -4479 768 below quad
-14805 -4479 448 below quad
-15655 -4479 832 below quad
-15697 -4480 832 below quad
-15743 -4530 1472 quad
-14472 -5247 1472 quad
-14464 -6015 2496 quad
-14976 -6015 1472 quad
-21119 -4223 256 water
-16831 -7388 1216 center
-15487 -10111 160 center
-16749 -8449 1600 center
-16000 -6784 256 center
-17094 -4038 64 water
-17280 -18855 1600 ra/mega
-22143 -18815 960 ra/mega
-20799 -15744 960 ra/mega
-19625 -15744 960 ra/mega
-19134 -19183 960 ra/mega
-17024 -20095 1600 ra/mega
-17436 -19152 1600 ra/mega
-18304 -16256 64 ra/mega
-18240 -15744 960 ra/mega
-15232 127 192 ng
-18816 -7039 448 ra box
-19478 -4774 448 ra box
-18861 -4672 448 ra box
-19830 -4217 64 water
-18816 -4221 64 water
-19465 -4223 64 water
-19634 -4190 64 water
-19519 -4342 448 ra box
-22195 -291 -575 tele
-14719 -6592 1472 center
-20095 -5446 448 ra box
-10130 -10449 1088 center
-10112 -8411 1600 center
-19071 -7039 448 ra box
-18816 -5758 448 ra box
-20095 -4736 448 ra box
-20438 -3584 192 water
-19135 -65 704 ng
-21119 -2432 192 water
-18981 -3506 64 water
-19743 -2432 64 water
-17481 1505 192 tele
-20514 2144 -575 tele
-21503 -639 -575 tele
+19889 -13983 192 low$loc_name_separatorrl
+19128 -5416 448 secret
+18621 -3324 64 water
+21113 -3584 256 water
+18130 -740 192 ng
+13452 -8668 160 big
+21981 -18815 960 $loc_name_ra$loc_name_separator$loc_name_mh
+22373 -310 -575 tele$loc_name_separator$loc_name_ya
+15650 -6015 1472 $loc_name_quad
+17445 -18753 704 low$loc_name_separatorbutton
+19970 -1550 192 ng
+16329 -8037 2752 gl
+10479 -8173 2816 tele$loc_name_separatorhigh
+13282 -6663 1472 big$loc_name_separatorwall
+19698 -15854 960 $loc_name_ra$loc_name_separator$loc_name_mh
+15977 -4298 832 $loc_name_quad$loc_name_separatorlow
+12905 -4019 192 $loc_name_quad$loc_name_separatorlow
+19023 -441 -703 tele
+18303 -1663 -1087 tele
+14464 -5995 2496 $loc_name_quad$loc_name_separatorhigh
+15721 -5395 1472 $loc_name_quad
+11936 -5443 1472 high$loc_name_separatorrl
+10789 -3988 1472 high$loc_name_separatorrl
+14805 -3381 1472 $loc_name_quad$loc_name_separatorway
+10627 -7466 256 big
+16319 -7497 256 big
+11392 -6784 160 big
+14719 -6700 1472 big$loc_name_separatorwall
+21119 -4645 960 path
+20604 -3634 960 path
+20387 -1755 960 path
+17241 -13211 192 platforms
+19770 -19328 960 $loc_name_ra$loc_name_separator$loc_name_mh
+15743 -4599 1472 $loc_name_quad
+20619 -607 -511 tele
+10193 -8486 1600 big$loc_name_separatorstairs
+20525 -2496 192 water
+11904 -4479 192 $loc_name_quad$loc_name_separatorlow
+14311 -3755 192 $loc_name_quad$loc_name_separatorlow
+14090 -3199 1472 $loc_name_quad$loc_name_separatorway
+12254 -3199 1472 $loc_name_quad$loc_name_separatorway
+11392 -8320 160 big
+15459 -8906 160 big
+15487 -7072 160 big
+16000 -6784 256 big
+10879 -6784 256 big
+10879 -8062 256 big
+18816 -11952 192 low$loc_name_separatorrl
+20863 -15231 192 low$loc_name_separatorrl
+19445 -15231 192 low$loc_name_separatorrl
+17261 -15092 192 low$loc_name_separatorrl
+19848 -18353 960 $loc_name_ra$loc_name_separator$loc_name_mh
+22678 -15744 960 $loc_name_ra$loc_name_separator$loc_name_mh
+21695 -15072 960 low$loc_name_separatorstairs
+19839 -19846 960 $loc_name_ra$loc_name_separator$loc_name_mh
+14841 -13951 192 platforms
+18510 -13951 192 platforms
+19091 -14356 192 low$loc_name_separatorrl
+19013 -13336 192 low$loc_name_separatorrl
+19338 -114 832 ng
+21119 127 960 path
+20095 -4736 448 secret
+19071 -7039 448 secret
+17791 -16284 704 low$loc_name_separatorbutton
+17154 -4098 64 water
+19612 -4186 64 water
+17024 -2049 192 ng
+15789 -2731 704 $loc_name_quad$loc_name_separatorlow
+18628 -13951 192 low$loc_name_separatorrl
+19584 -8444 192 low$loc_name_separatorlift
+18240 -15744 960 $loc_name_ra$loc_name_separator$loc_name_mh
+20799 -15747 960 $loc_name_ra$loc_name_separator$loc_name_mh
+15232 -1144 192 ng
+18341 -14464 192 low$loc_name_separatorrl
+14975 -3502 1472 $loc_name_quad$loc_name_separatorway
+14464 -3440 1472 $loc_name_quad$loc_name_separatorway
+10368 -2693 1472 $loc_name_quad$loc_name_separatorway
+12775 -2688 1472 $loc_name_quad$loc_name_separatorway
+13432 -3199 1472 $loc_name_quad$loc_name_separatorway
+16214 -9039 1600 big$loc_name_separatorstairs
+13868 -8229 2752 floating
+13380 -8229 2752 floating
+12988 -8229 2752 floating
+12636 -8229 2752 floating
+12268 -8229 2752 floating
+10874 -5047 2752 tele$loc_name_separatorhigh
+15305 -3712 704 $loc_name_quad$loc_name_separatorlow
+16978 1493 192 tele$loc_name_separatorentry
+10112 -5375 1472 high$loc_name_separatorrl
+17354 -18925 1600 $loc_name_ra$loc_name_separator$loc_name_mh/rox
+18240 -18548 704 $loc_name_ra$loc_name_separator$loc_name_mh
+18240 -17280 704 $loc_name_ra$loc_name_separator$loc_name_mh
+17855 -17280 704 low$loc_name_separatorbutton
+17855 -18559 704 low$loc_name_separatorbutton
+20607 -1919 256 ng
+20454 -4218 192 water
+19454 -2432 64 water
+19074 -1919 192 ng
+19584 -7296 256 low$loc_name_separatorrl
+21060 960 -248 tele
+17377 127 -658 tele
+17370 -1663 -647 tele
+17947 -814 -1087 tele
+20181 -7903 960 path$loc_name_separatorlift
+19867 -7936 128 low$loc_name_separatorlift
+21693 -11671 320 low$loc_name_separatorstairs
+18633 -19710 1216 $loc_name_ra$loc_name_separator$loc_name_mh
+18923 2633 -63 tele
+16314 62 192 ng
+20996 -5619 960 path
+20109 -7195 960 path$loc_name_separatorlift
+20789 -2740 960 path
+20513 -6045 960 path
+13571 -11024 160 big
+15008 -11135 704 big$loc_name_separatorstairs
+12393 -11135 576 big$loc_name_separatorstairs
+20863 -12232 192 low$loc_name_separatorrl
+21466 -12648 704 low$loc_name_separatorstairs
+18816 -10368 192 low$loc_name_separatorrl
+20863 -13267 192 low$loc_name_separatorrl
+21768 -15770 960 $loc_name_ra$loc_name_separator$loc_name_mh
+14335 -5946 192 $loc_name_quad$loc_name_separatorbutton
+13184 -5202 192 $loc_name_quad$loc_name_separatorbutton
+14151 -6784 160 big
+13184 -6414 160 $loc_name_quad$loc_name_separatorbutton
+12843 -6784 160 big
+17791 -15493 448 low$loc_name_separatorbutton
+18073 -19711 1472 $loc_name_ra$loc_name_separator$loc_name_mh/rox
+11392 -10111 160 big
+11557 -10336 960 big$loc_name_separatorstairs
+14653 -10111 160 big
+20863 -10368 192 low$loc_name_separatorrl
+19520 -6528 960 path$loc_name_separatorlift
+20597 -5793 960 path
+19071 -6300 448 secret
+19955 -236 960 ng
+18605 -193 448 ng
+18205 127 192 ng
+18517 -639 320 ng
+18483 127 320 ng
+20579 -352 960 path
+18527 -1153 192 ng
+18932 -1152 192 ng
+18525 -1919 192 ng
+18634 -2432 64 water
+17570 -2746 64 water
+17654 -2330 192 ng
+19643 2343 -447 tele
+19890 2281 -575 tele
+19751 1921 -447 tele
+20020 1920 -575 tele
+21503 127 -575 tele
+21888 126 -575 tele$loc_name_separator$loc_name_ya
+22878 -14884 960 low$loc_name_separatorstairs
+16511 -2393 448 $loc_name_quad$loc_name_separatorlow
+13184 -13951 192 big$loc_name_separatorbutton
+14388 -12159 192 big$loc_name_separatorbutton
+13448 -11473 192 big$loc_name_separatorbutton
+14834 -10269 576 big$loc_name_separatorstairs
+15487 -10111 160 big
+15705 -9856 1088 big$loc_name_separatorstairs
+20691 -6451 960 path$loc_name_separatorlift
+20350 -6277 960 path$loc_name_separatorlift
+19991 -5608 448 secret
+18434 2288 192 tele$loc_name_separatorentry
+18674 2293 64 tele
+17147 129 192 ng
+17143 357 192 tele$loc_name_separatorentry
+11136 -8832 1088 big$loc_name_separatorstairs
+21312 -13696 960 low$loc_name_separatorstairs
+21095 -12760 704 low$loc_name_separatorrl
+11774 -3712 1472 high$loc_name_separatorrl
+10631 -3557 1472 high$loc_name_separatorrl
+10633 -3159 1472 $loc_name_quad$loc_name_separatorway
+11605 -3199 1472 $loc_name_quad$loc_name_separatorway
+14986 -7296 4288 gl$loc_name_separatorroof
+15743 -8895 3776 gl$loc_name_separatorroof
+12416 -7296 4032 gl$loc_name_separatorroof
+11986 -9087 4288 gl$loc_name_separatorroof
+13776 -8895 4032 gl$loc_name_separatorroof
+15064 -8177 2752 gl
+15819 -9054 2752 gl
+11615 -8265 2752 tele$loc_name_separatorhigh
+14880 -8257 2752 floating
+14464 -4519 1472 $loc_name_quad
+16107 -1865 192 ng
+16105 -2084 320 $loc_name_quad$loc_name_separatorlow
+18533 -188 -959 tele
+18255 -287 -1087 tele
+19200 -4306 448 secret
+19139 -4223 64 water
