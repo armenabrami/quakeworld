@@ -1,8 +1,7 @@
 url "QuakeServers URL" http://www.quakeservers.net/lists/servers/global.txt
 url "Europe" https://raw.githubusercontent.com/vikpe/qw-data/main/hubapi/servers_mvdsv_europe.txt
-master "QuakeServers" master.quakeservers.net:27000
-master "FodQuake" qwmaster.fodquake.net:27000
-master "Ocrana" qwmaster.ocrana.de:27000
+master "QuakeServers" 78.47.113.68:27000
+master "FodQuake" 5.9.97.180:27000
 master "Asgaard" 85.10.201.75:27000
 master "Poland" 217.153.59.106:27000
 file "Global" global.txt
